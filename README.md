@@ -1,6 +1,6 @@
 
 - Github: [![GitHub chybeta](https://img.shields.io/github/followers/chybeta?label=follow%20github&style=flat-square)](https://github.com/chybeta)
-- Twitter: [![Twitter: pyn3rd](https://img.shields.io/twitter/follow/chybeta?style=flat-square)](https://twitter.com/pyn3rd)
+- Twitter: [![Twitter: pyn3rd](https://img.shields.io/twitter/follow/pyn3rd?style=flat-square)](https://twitter.com/pyn3rd)
 
 
 
