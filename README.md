@@ -1,5 +1,5 @@
 
-##### - 知识星球：[【漏洞百出】](https://wx.zsxq.com/dweb2/index/group/88858555558242)
+##### - 知识星球：[【攻防二象性】](https://wx.zsxq.com/dweb2/index/group/88858555558242)
 ##### - Weibo: https://weibo.com/u/1977418460
 ##### - Blog: https://pyn3rd.github.io/
 
