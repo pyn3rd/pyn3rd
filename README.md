@@ -1,11 +1,12 @@
 
 ##### - 知识星球：[【漏洞百出】](https://wx.zsxq.com/dweb2/index/group/88858555558242)
 ##### - Weibo: https://weibo.com/u/1977418460
-- Blog: https://pyn3rd.github.io/
+##### - Blog: https://pyn3rd.github.io/
 
 
-- Github: [![GitHub pyn3rd](https://img.shields.io/github/followers/pyn3rd?label=follow%20github&style=flat-square)](https://github.com/pyn3rd)
-- Twitter: [![Twitter: pyn3rd](https://img.shields.io/twitter/follow/pyn3rd?style=flat-square)](https://twitter.com/pyn3rd)
+##### - Github: [![GitHub pyn3rd](https://img.shields.io/github/followers/pyn3rd?label=follow%20github&style=flat-square)](https://github.com/pyn3rd)
+##### - Twitter: [![Twitter: pyn3rd](https://img.shields.io/twitter/follow/pyn3rd?style=flat-square)](https://twitter.com/pyn3rd)
+
 
 
 
