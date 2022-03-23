@@ -4,7 +4,7 @@
 
 ##### - :thought_balloon: 知识星球：[【攻防二象性】](https://wx.zsxq.com/dweb2/index/group/88858555558242)
 ##### - :thought_balloon: Weibo: https://weibo.com/u/1977418460
-##### - :thought_balloon: Blog: https://pyn3rd.github.io
+##### :thought_balloon: - Blog: https://pyn3rd.github.io
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 
