@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=pyn3rd)
+![](https://github-readme-stats.vercel.app/api?username=pyn3rd&theme=dark)
 
 
 <!--
